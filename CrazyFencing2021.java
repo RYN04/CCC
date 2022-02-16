@@ -1,7 +1,7 @@
 package I2021I;
 import java.util.*;
 import java.io.*;
-public class CrazyFencing2 
+public class CrazyFencing2021
 {
 	public static void main(String[] args) throws IOException
 	{
